@@ -83,6 +83,9 @@ h1{
     height: 20%;
     border-radius: 10px;
 }
+.button:hover{
+    background-color: hsl(303, 73%, 54%);
+}
 .box3{
     color: white;
     margin: 0 0 0 0;
@@ -185,7 +188,9 @@ h1{
     height: 20%;
     border-radius: 10px;
 }
-
+.button:hover{
+    background-color: hsl(303, 73%, 54%);
+}
 
 .box3{
     color: white;
@@ -280,7 +285,9 @@ h1{
         height: 20%;
         border-radius: 10px;
     }
-    
+    .button:hover{
+        background-color: hsl(303, 73%, 54%);
+    }
 
     .box3{
         box-sizing: border-box;
@@ -345,7 +352,9 @@ h1{
         height: 20%;
         border-radius: 10px;
     }
-    
+    .button:hover{
+        background-color: hsl(303, 73%, 54%);
+    }
 
     .box3{
         color: white;
